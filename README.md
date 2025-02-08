@@ -37,3 +37,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpagtm&" alt="sankalpagtm" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalpagtm" alt="sankalpagtm" /></a> </p>
+### 🌄 3D GitHub Contribution Graph
+
+![3D GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankalpagtm&theme=github_dark)
+
