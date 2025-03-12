@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Javascript,OOP and Python.**
 
-- 👨‍💻 All of my projects are available at [www.sankalpagautam.com.np](www.sankalpagautam.com.np)
+- 👨‍💻 All of my projects are available at [www.sankalpagautam.com.np](https://www.sankalpagautam.com.np)
 
 - 💬 Ask me about **anything related to Frontend**
 
